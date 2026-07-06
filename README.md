@@ -13,22 +13,22 @@ https://samitislam.github.io/SamitIslamRudra/
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 I'm an **Assistant Manager – International Marketing** at **DBL Pharmaceuticals Ltd**, working on:
 
-- 🌍 Global Market Access
-- 💊 Pharmaceutical Export
-- 📑 CTD Dossier Preparation
-- 📋 Product Registration
-- 🤝 Distributor Development
-- 📈 International Business Development
-- 🌐 Regulatory Affairs
-- 🧠 AI & Data Analytics
+-  Global Market Access
+-  Pharmaceutical Export
+-  CTD Dossier Preparation
+-  Product Registration
+-  Distributor Development
+-  International Business Development
+-  Regulatory Affairs
+-  AI & Data Analytics
 
 ---
 
-## ✨ Features
+##  Features
 
 - Responsive Design
 - Dark / Light Mode
@@ -45,7 +45,7 @@ I'm an **Assistant Manager – International Marketing** at **DBL Pharmaceutical
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5
 - CSS3
@@ -57,7 +57,7 @@ I'm an **Assistant Manager – International Marketing** at **DBL Pharmaceutical
 
 ---
 
-## 💼 Professional Expertise
+##  Professional Expertise
 
 - International Marketing
 - Pharmaceutical Market Access
@@ -73,7 +73,7 @@ I'm an **Assistant Manager – International Marketing** at **DBL Pharmaceutical
 
 ---
 
-## 🤖 AI & Data Analytics
+##  AI & Data Analytics
 
 Currently expanding my expertise in:
 
@@ -89,7 +89,7 @@ Currently expanding my expertise in:
 
 ---
 
-## 📄 Research Publication
+##  Research Publication
 
 **Knowledge, Attitude, and Perception of Prostate Cancer among Male University Students in Bangladesh: A Survey to Shape Future Cancer Healthcare Strategies**
 
@@ -117,7 +117,7 @@ SamitIslamRudra/
 
 ---
 
-## 📬 Contact
+##  Contact
 
 📧 Email  
 **rudradbl@gmail.com**

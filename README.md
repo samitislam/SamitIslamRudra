@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my experience in **International Marketing**, **Market Access**, **Regulatory Affairs**, **Pharmaceutical Business Development**, and **AI & Data Analytics**.
 
-![Portfolio Preview](assets/profile.jpeg)
+<img src="![Portfolio Preview](assets/profile.jpeg)">
 
 ---
 
